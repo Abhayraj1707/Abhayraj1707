@@ -18,7 +18,8 @@
 <h2 align="center">My work is mostly realted to Web-Development</h2>
 <h2 align="center"> 👨‍💻  Check out my repos to view some of my work   👨‍💻</h2>
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=Abhayraj1707&show_icons=true&count_private=true" alt="Abhay" />
-[![Abhay's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Abhayraj1707&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abhayraj1707&layout=compact" alt="Abhay" />
+<!-- [![Abhay's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Abhayraj1707&layout=compact)](https://github.com/anuraghazra/github-readme-stats)? -->
 
 <img align="right" height="200vw" alt="GIF" src="https://media.giphy.com/media/xTcnSWYZvafyhEACBO/giphy.gif" ><br>
 - 🌱 I’m currently an undergrad at IIIT , RANCHI .<br>
