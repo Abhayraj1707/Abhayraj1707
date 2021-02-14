@@ -1,10 +1,15 @@
-<!-- ### <img src="C:\Users\ABHAY RAJ\Desktop\Abhayraj1707\gif" />  -->
+### <img src=https://github.com/Abhayraj1707/Abhayraj1707/blob/master/gif/Hi.gif /> 👋  Abhay Raj 💕 
 
-<h1 align="center">Hey there 👋, I'm Abhay</h1>
+
+[![Visitors](https://visitor-badge.glitch.me/badge?page_id=Abhayraj1707.visitor-badge)](https://github.com/Abhayraj1707)
+[![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/Abhayraj1707) 
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/Abhayraj1707)
+
+
 <h3 align="center">A full-stack web-developer open to new-Tech</h3>
 <div class="align-items-center">
 <a href="https://www.linkedin.com/in/abhay-raj-6a12821a1/">
-  <img align="left" alt="Abhay's Linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+  <img align="left" alt="Abhay's Linkedin"  width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
 <a href="https://www.instagram.com/abhayraj1707/?hl=en">
   <img align="left" alt="Abhay's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
