@@ -7,18 +7,6 @@
 
 
 <h3 align="center">A full-stack web-developer open to new-Tech</h3>
-<div class="align-items-center">
-<a href="https://www.linkedin.com/in/abhay-raj-6a12821a1/">
-  <img align="left" alt="Abhay's Linkedin"  width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-</a>
-<a href="https://www.instagram.com/abhayraj1707/?hl=en">
-  <img align="left" alt="Abhay's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
-</a>
-<a href="mailto:abhayrajsingh1707@gmail.com">
-  <img align="left" alt="Abhay's E-mail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
-</a>
-</div>
-<br><br>
 
 <h2 align="center">My work is mostly realted to Web-Development</h2>
 <h2 align="center"> 👨‍💻  Check out my repos to view some of my work   👨‍💻</h2>
@@ -34,6 +22,15 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abhayraj1707&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
 
+---
+**Github Streak:**
+<p align = "center">
+  <img src = "https://github-readme-streak-stats.herokuapp.com/?user=Abhayraj1707">
+</p>
+
+---
+
+
 
 <img align="right" height="200vw" alt="GIF" src="https://media.giphy.com/media/xTcnSWYZvafyhEACBO/giphy.gif" ><br>
 - 🌱 I’m currently an undergrad at IIIT , RANCHI .<br>
@@ -42,6 +39,17 @@
 - 💻 My work also includes web applications based on flask as backend framework.<br>
 - 💻 Learning js frameworks .<br>
 - 💬 Ask me anything .Happy to help .<br>
-- 📫 Connect with me through linkedin , insta or via mail.<br>
+- 📫 Connect with me through linkedin , twitter or via mail.<br>
 - <b>EAT , SLEEP , CODE , REPEAT</b>
+
+---
+
+## Connect with me
+
+  <p align="center">
+    <a target="_blank"href="https://www.linkedin.com/in/abhay-raj-6a12821a1/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+    <a target="_blank"href="https://twitter.com/Abhayra71989809"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+    <a href="mailto:abhayrajsingh1707@gmail.com?hl="en"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  </p>
+
 
